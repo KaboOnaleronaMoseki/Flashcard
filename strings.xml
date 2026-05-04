@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HackQuestions</string>
+    <string name="hackquetsions">HackQuetsions</string>
+    <string name="hackquestions">HackQuestions</string>
+    <string name="life_hack_or_urban_myth">Life Hack or Urban Myth</string>
+    <string name="test_your_knowledge_and_learn_which_life_hacks_are_real_and_which_life_hacks_are_real_and_which_are_just_myths">Test your knowledge and learn which life hacks are real and which life hacks are real and which are just myths!</string>
+    <string name="start">START</string>
+    <string name="here_is_the_question">Here is the Question</string>
+    <string name="hack_true">Hack(TRUE)</string>
+    <string name="myth_false">Myth(False)</string>
+    <string name="next">NEXT</string>
+    <string name="score">Score</string>
+    <string name="reveal_score">Reveal Score</string>
+</resources>

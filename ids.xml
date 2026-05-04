@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reviewButton" type="id">reviewbutton</item>
+    <item name="scoreText" type="id">scoreText</item>
+    <item name="scoreLayout" type="id">scoreLayout</item>
+    <item name="questionLayout" type="id">questionLayout</item>
+    <item name="welcomeLayout" type="id">welcomeLayout</item>
+</resources>
