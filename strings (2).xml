@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Hack or Myth</string>
+
+    <!-- Welcome Screen -->
+    <string name="title">HACK or MYTH?</string>
+    <string name="subtitle">Test your brain. Bust myths. Discover real life hacks.</string>
+    <string name="start">START QUIZ</string>
+    <string name="review">PLAY AGAIN</string>
+
+
+    <!-- Question Screen -->
+    <string name="here_is_the_question">Here is the Question</string>
+    <string name="hack">HACK</string>
+    <string name="myth">MYTH</string>
+    <string name="next">NEXT</string>
+
+    <!-- Score Screen -->
+    <string name="score">Your Score</string>
+    <string name="play_again">PLAY AGAIN</string>
+
+    <!-- Feedback -->
+    <string name="correct">Correct! ✅</string>
+    <string name="wrong">Wrong! ❌</string>
+    <string name="score_format">Your Score: %1$d / %2$d</string>
+    <string name="congrats">Congratulations! You passed!</string>
+    <string name="reveal_score">Reveal Score</string>
+
+
+</resources>
